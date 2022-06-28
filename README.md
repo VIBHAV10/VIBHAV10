@@ -18,17 +18,20 @@
 
 <h3 align="left">Skills: </h3>
 
-<img align="left"  title="C" alt="C" height="33px" src="./logos/c_colored.png" />
+<img align="left"  title="C" alt="C" height="35px" src="./logos/c_colored.png" />
 <img align="left" title="C++" alt="C++" height="35px" src="./logos/cpp_coloured.png" />
 <img align="left" title="HTML5" alt="HTML5" width="35px" src="./logos/html5_coloured.png" />
 <img align="left" title="CSS3" alt="CSS3" width="35px" src="./logos/css3_coloured.png" />
 <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./logos/Bootstrap.png" />
 <img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/stickers/48/000000/selenium-test-automation.png"/>
+<img align="left" title="Python" alt="Python" height="35px"src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" title="Jupyter Notebook" alt="JupyterNotebook" height="35px" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img img align="left"  title="Django" alt="Django" height="35px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img img align="left"  title="Selenium" alt="Selenium" height="35px" src="https://img.icons8.com/stickers/48/000000/selenium-test-automation.png"/>
+<img align="left"  title="Flask" alt="Flask" height="35px" src="https://img.icons8.com/flask" />
+
+
 
 <br>
 <br>
