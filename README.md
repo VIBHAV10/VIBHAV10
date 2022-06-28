@@ -29,7 +29,9 @@
 <img align="left" title="Jupyter Notebook" alt="JupyterNotebook" height="35px" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 <img img align="left"  title="Django" alt="Django" height="35px" src="https://img.icons8.com/color/48/000000/django.png"/>
 <img img align="left"  title="Selenium" alt="Selenium" height="35px" src="https://img.icons8.com/stickers/48/000000/selenium-test-automation.png"/>
-<img align="left"  title="Flask" alt="Flask" height="35px" src="https://img.icons8.com/flask" />
+<img align="left" title="Tensorflow" alt="Tensorflow" height="35px" src="./logos/tensorflow.png" />
+<img align="left" title="Streamlit" alt="Streamlit" height="35px" src="./logos/streamlit.png" />
+<img align="left"  title="Flask" alt="Flask" height="35px" src="./logos/flask.png" />
 
 
 
@@ -52,7 +54,7 @@
 
 
 <p align="center">
-<a href="https://github.com/yash22arora">
+<a href="https://github.com/vibhav10">
   <img   width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhav10&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
   
 <img   width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhav10&layout=compact&theme=omni&hide_border=true&hide_title=true" />
