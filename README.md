@@ -7,9 +7,9 @@
 
 <h3>About Me:</h3>
 - 🔭 I’m currently working on - Backend Development, Deep Learning <br>
-- 🌱 I’m currently learning React.js <br>
+- 🌱 I’m currently learning DevOps <br>
 - ⚡️ Interests - Machine Learning and Automative Technologies <br>
-- 👯 I’m looking to collaborate on Web Development Projects. <br>
+- 👯 I’m looking to collaborate on Backend Development Projects. <br>
 - 🤝 I'm am a competitive coder <br>
 
 <br>
